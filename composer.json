@@ -5,5 +5,5 @@
             "Ncut\\LaraAutoP\\": "src/"
         }
     },
-    "require": {}
+    "require": { "nesbot/carbon": "^2.39.0"}
 }
